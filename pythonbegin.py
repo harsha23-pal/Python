@@ -1,1 +1,2 @@
-print("Harsh pal\nI am 18 years old\nMy hobies are reading book")
+Name=str(input("Enter your Name please:"))
+print("Hello",Name,"!")
